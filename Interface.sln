@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStep", "MyStep\MyStep.csproj", "{9B17A588-2CFE-445E-B3ED-C7519450B73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiService", "TaxiService\TaxiService.csproj", "{E21F32C4-EB60-41D8-A8AB-324B30AFF041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B17A588-2CFE-445E-B3ED-C7519450B73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B17A588-2CFE-445E-B3ED-C7519450B73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B17A588-2CFE-445E-B3ED-C7519450B73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B17A588-2CFE-445E-B3ED-C7519450B73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21F32C4-EB60-41D8-A8AB-324B30AFF041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21F32C4-EB60-41D8-A8AB-324B30AFF041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21F32C4-EB60-41D8-A8AB-324B30AFF041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21F32C4-EB60-41D8-A8AB-324B30AFF041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CC45CD-0F5A-42AB-8CC1-F4C5618CA0E9}
+	EndGlobalSection
+EndGlobal
